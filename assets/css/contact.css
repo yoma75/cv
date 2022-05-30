@@ -19,19 +19,19 @@
   width: 5rem;
   line-height: 5rem;
   font-size: 2rem;
-  background: #F3F8EC;
+  background: #fff;
   color: var(--main-color);
   border-radius: 50%;
 }
 
 .contact .icons-container .icons h3 {
-  color: #F3F8EC;
+  color: #fff;
   font-size: 2rem;
   padding: .5rem 0;
 }
 
 .contact .icons-container .icons p {
-  color: #F3F8EC;
+  color: #fff;
   font-size: 1.7rem;
   text-transform: none;
 }
