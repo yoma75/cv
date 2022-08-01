@@ -37,6 +37,7 @@
   color: #111;
   padding: .5rem 0;
   text-transform: none;
+  font-weight: bolder;
 }
 
 .home .content .text {
