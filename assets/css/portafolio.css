@@ -13,7 +13,8 @@
   background: rgba(255, 255, 255, 0.904);
 }
 
-.portafolio .box-container .box  i {
+.portafolio .box-container .box  i,
+.portafolio .box-container .box span {
   padding: 1rem;
   font-size: 5rem;
   color: var(--main-color);
@@ -22,6 +23,7 @@
 .portafolio .box-container .box  h3 a {
   font-size: 2.5rem;
   color: #333;
+  text-transform: none;
 }
 
 .portafolio .box-container .box  h3 a:hover {
