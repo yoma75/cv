@@ -106,20 +106,24 @@
   border-radius: 50rem;
 }
 
+/* Diseñador web */
 .about .row-2 .skills .progress:nth-child(1) .bar span {
-  width: 80%;
-}
-
-.about .row-2 .skills .progress:nth-child(2) .bar span {
-  width: 40%;
-}
-
-.about .row-2 .skills .progress:nth-child(3) .bar span {
   width: 75%;
 }
 
+/* Javascript */
+.about .row-2 .skills .progress:nth-child(2) .bar span {
+  width: 45%;
+}
+
+/* Bootstrap */
+.about .row-2 .skills .progress:nth-child(3) .bar span {
+  width: 65%;
+}
+
+/* CSS */
 .about .row-2 .skills .progress:nth-child(4) .bar span {
-  width: 85%;
+  width: 70%;
 }
 
 .about .row-2 .box-container {
