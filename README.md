@@ -1,2 +1,2 @@
 # cv
-![borrador](https://user-images.githubusercontent.com/60888517/199860826-9e8206d8-e01a-462d-858f-d6f113218284.png)
+![mycv](https://github.com/yoma75/cv/assets/60888517/9ef0f5c2-351a-46f0-8380-7c4509b7dc67)
